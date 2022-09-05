@@ -1,5 +1,5 @@
 # Python100knock
-### [基礎力向上](https://www.youtube.com/watch?v=Gh0qRBHbnVs&t=231s)
+### [基礎力向上](https://www.youtube.com/watch?v=Gh0qRBHbnVs&t=0s)
 |問題番号|内容|確認事項|
 |:--:|:--:|:--:|
 |3~13|[文字列]()||
