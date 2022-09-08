@@ -15,6 +15,6 @@
 ### [Python実践データ分析100本ノック](https://qiita.com/yasuoyasuo/items/fec5ed4d7afc1627dc4d)
 |問題番号|内容|確認事項|
 |:--:|:--:|:--:|
-|[1~10本](https://github.com/kaneda0511/Python-knock/blob/main/Python%E5%AE%9F%E8%B7%B5%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90100%E6%9C%AC%E3%83%8E%E3%83%83%E3%82%AF/1%E7%AB%A0/%E3%83%8E%E3%83%83%E3%82%AF:1~10.ipynb)|ウェブからの注文数を分析|データの結合、集計(ピボットテーブル)、推移の可視化|
+|[1~10本](https://github.com/kaneda0511/Python-knock/blob/main/Python%E5%AE%9F%E8%B7%B5%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90100%E6%9C%AC%E3%83%8E%E3%83%83%E3%82%AF/1%E7%AB%A0/%E3%83%8E%E3%83%83%E3%82%AF:1~10.ipynb)|ウェブからの注文数を分析|read_csv、concat、merge、pivot_table、matplotlib|
 |[11~20本](https://github.com/kaneda0511/Python-knock/blob/main/Python%E5%AE%9F%E8%B7%B5%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90100%E6%9C%AC%E3%83%8E%E3%83%83%E3%82%AF/2%E7%AB%A0/%E3%83%8E%E3%83%83%E3%82%AF11~20.ipynb)|小売店のデータでデータ加工|loc、groupby、pivot_tabelによる集計と各種データ加工|
 |||
