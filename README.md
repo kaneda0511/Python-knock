@@ -11,7 +11,8 @@
 |37~40|[クラス](https://github.com/kaneda0511/Python100knock/blob/main/Python100%E6%9C%AC%E3%83%8E%E3%83%83%E3%82%AF%EF%BC%88%E5%9F%BA%E7%A4%8E%E5%8A%9B%E5%90%91%E4%B8%8A%EF%BC%89/07_%E3%82%AF%E3%83%A9%E3%82%B9.ipynb)|private,public|
 
 
-### [Python実践データ分析100本ノック]()
+
+### [Python実践データ分析100本ノック](https://qiita.com/yasuoyasuo/items/fec5ed4d7afc1627dc4d)
 |問題番号|内容|確認事項|
 |:--:|:--:|:--:|
 |[1~10本](https://github.com/kaneda0511/Python-knock/blob/main/Python%E5%AE%9F%E8%B7%B5%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90100%E6%9C%AC%E3%83%8E%E3%83%83%E3%82%AF/1%E7%AB%A0/%E3%83%8E%E3%83%83%E3%82%AF:1~10.ipynb)|ウェブからの注文数を分析|データの結合、集計(ピボットテーブル)、推移の可視化|
