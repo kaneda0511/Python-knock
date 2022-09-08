@@ -17,4 +17,12 @@
 |:--:|:--:|:--:|
 |[1~10本](https://github.com/kaneda0511/Python-knock/blob/main/Python%E5%AE%9F%E8%B7%B5%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90100%E6%9C%AC%E3%83%8E%E3%83%83%E3%82%AF/1%E7%AB%A0/%E3%83%8E%E3%83%83%E3%82%AF:1~10.ipynb)|ウェブからの注文数を分析|read_csv、concat、merge、pivot_table、matplotlib|
 |[11~20本](https://github.com/kaneda0511/Python-knock/blob/main/Python%E5%AE%9F%E8%B7%B5%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90100%E6%9C%AC%E3%83%8E%E3%83%83%E3%82%AF/2%E7%AB%A0/%E3%83%8E%E3%83%83%E3%82%AF11~20.ipynb)|小売店のデータでデータ加工|loc、groupby、pivot_tabelによる集計と各種データ加工|
-|||
+|[21~30本]()|||
+|[31~40本]()|||
+|[41~50本]()|||
+|[51~60本]()|||
+|[61~70本]()|||
+|[71~80本]()|||
+|[81~90本]()|||
+|[91~100本]()|||
+
