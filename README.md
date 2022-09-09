@@ -20,7 +20,7 @@
 |[11~20本](https://github.com/kaneda0511/Python-knock/blob/main/Python%E5%AE%9F%E8%B7%B5%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90100%E6%9C%AC%E3%83%8E%E3%83%83%E3%82%AF/2%E7%AB%A0/%E3%83%8E%E3%83%83%E3%82%AF11~20.ipynb)|小売店のデータでデータ加工|loc、groupby、pivot_tabelによる集計と各種データ加工|
 |第2部|実践編①|**機械学習**|
 |[21~30本](https://github.com/kaneda0511/Python-knock/blob/main/Python%E5%AE%9F%E8%B7%B5%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90100%E6%9C%AC%E3%83%8E%E3%83%83%E3%82%AF/3%E7%AB%A0/%E3%83%8E%E3%83%83%E3%82%AF21~30.ipynb)|顧客の全体像を把握する|dateutil.relativedeltaなどの利用履歴データの作成|
-|[31~40本](https://github.com/kaneda0511/Python-knock/blob/main/Python%E5%AE%9F%E8%B7%B5%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90100%E6%9C%AC%E3%83%8E%E3%83%83%E3%82%AF/4%E7%AB%A0/%E3%83%8E%E3%83%83%E3%82%AF31~40.ipynb)|顧客の行動を予測する|Kmeans、PCA、LinearRegression|
+|[31~40本](https://github.com/kaneda0511/Python-knock/blob/main/Python%E5%AE%9F%E8%B7%B5%E3%83%86%E3%82%99%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90100%E6%9C%AC%E3%83%8E%E3%83%83%E3%82%AF/4%E7%AB%A0/%E3%83%8E%E3%83%83%E3%82%AF31~40.ipynb)|顧客の行動を予測する|Kmeans、PCA、LinearRegressionによる回帰と分類|
 |[41~50本]()|顧客の退会を予測する||
 |第3部|実践編②|**最適化問題**|
 |[51~60本]()|物流の最適ルートをコンサルティングする||
